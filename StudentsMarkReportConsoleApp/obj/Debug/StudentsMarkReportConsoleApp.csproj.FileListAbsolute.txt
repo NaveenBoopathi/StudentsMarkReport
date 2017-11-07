@@ -1,0 +1,6 @@
+c:\users\navee\documents\visual studio 2017\Projects\StudentsMarkReportConsoleApp\StudentsMarkReportConsoleApp\bin\Debug\StudentsMarkReportConsoleApp.exe.config
+c:\users\navee\documents\visual studio 2017\Projects\StudentsMarkReportConsoleApp\StudentsMarkReportConsoleApp\bin\Debug\StudentsMarkReportConsoleApp.exe
+c:\users\navee\documents\visual studio 2017\Projects\StudentsMarkReportConsoleApp\StudentsMarkReportConsoleApp\bin\Debug\StudentsMarkReportConsoleApp.pdb
+c:\users\navee\documents\visual studio 2017\Projects\StudentsMarkReportConsoleApp\StudentsMarkReportConsoleApp\obj\Debug\StudentsMarkReportConsoleApp.csprojResolveAssemblyReference.cache
+c:\users\navee\documents\visual studio 2017\Projects\StudentsMarkReportConsoleApp\StudentsMarkReportConsoleApp\obj\Debug\StudentsMarkReportConsoleApp.exe
+c:\users\navee\documents\visual studio 2017\Projects\StudentsMarkReportConsoleApp\StudentsMarkReportConsoleApp\obj\Debug\StudentsMarkReportConsoleApp.pdb

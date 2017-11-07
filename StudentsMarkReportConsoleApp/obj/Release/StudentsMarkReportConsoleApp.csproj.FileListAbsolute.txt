@@ -1,0 +1,5 @@
+c:\users\navee\documents\visual studio 2017\Projects\StudentsMarkReportConsoleApp\StudentsMarkReportConsoleApp\bin\Release\StudentsMarkReportConsoleApp.exe.config
+c:\users\navee\documents\visual studio 2017\Projects\StudentsMarkReportConsoleApp\StudentsMarkReportConsoleApp\bin\Release\StudentsMarkReportConsoleApp.exe
+c:\users\navee\documents\visual studio 2017\Projects\StudentsMarkReportConsoleApp\StudentsMarkReportConsoleApp\bin\Release\StudentsMarkReportConsoleApp.pdb
+c:\users\navee\documents\visual studio 2017\Projects\StudentsMarkReportConsoleApp\StudentsMarkReportConsoleApp\obj\Release\StudentsMarkReportConsoleApp.exe
+c:\users\navee\documents\visual studio 2017\Projects\StudentsMarkReportConsoleApp\StudentsMarkReportConsoleApp\obj\Release\StudentsMarkReportConsoleApp.pdb
