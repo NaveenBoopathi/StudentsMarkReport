@@ -68,8 +68,6 @@ namespace StudentsMarkReportConsoleApp
                 Console.WriteLine("\nEnter the Information of student no {0}",(i+1).ToString());
                 InputRecords();
             }
-
-            //This below invocation will call the View Records method and publish the Student marklist report
             Student.ViewRecords();
         }
 
